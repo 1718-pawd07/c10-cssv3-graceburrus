@@ -16,7 +16,7 @@
 body { 
     background-color: #3d4663;
     color: #ec4253;
-    font-family: "Times New Roman", Arial, serif;
+    font-family: "ecofont", Arial, sans-serif;
 }
 
 h1 {
@@ -28,6 +28,7 @@ h1 {
 h1, h2, h3, h4, h5, h6 {
 	background-color:black;
 	color: rgb(255,255,255);
+	font-family: "Times New Roman", Times, serif;
 }
 p {
 	background-color: white;
